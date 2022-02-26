@@ -1,0 +1,191 @@
+@media (max-width: 450px) {
+  .mainContent {
+    padding-left: 2%;
+    padding-right: 2%;
+    max-width: 100%;
+  }
+
+
+  .topper {
+  	background-color: white;
+  	min-height: 100px;
+  	padding-left: 2%;
+  	margin-right: 2%;
+    min-height: 50px;
+  }
+
+  .topper img {
+  	max-width: 50%;
+    height: auto;
+  }
+
+  .mainContent img {
+    max-width: 100%;
+    height: auto;
+  }
+
+.bannerText p {
+    font-size: 12pt;
+}
+
+.bigger p {
+    font-size: 14pt;
+}
+
+.bannerSignature {
+    font-size: 10pt;
+    margin: 10px 15px;
+    color: #aaa;
+}
+
+
+  /* Mobile friendly Menu */
+
+  .topperMenu {
+    position: absolute;
+    right: 0;
+    top:  0;
+    height: 30px;
+    width:60px;
+    margin: 15px 10px 0px 0px;
+    background-color: #ddd;
+    font-weight: normal;
+    padding: 3px 12px 0px 12px;
+    font-size: 14pt;
+    border-bottom: 2px solid #afdde9;
+    text-align: center;
+  }
+
+  .topperMenu:before {
+    content: "Menu";
+  }
+
+  .topperButtonList {
+    position: relative;
+    top: 25px;
+    margin: 0px;
+    padding-bottom:3px;
+    z-index: 90;
+
+    /* disable visibility by default, delay to enable clicks */
+    visibility: hidden;
+    transition: visibility 0.2s;
+  }
+
+  .topperMenu:focus, .topperMenu:active {
+    background-color: #ccc;
+
+  }
+
+   .topperMenu:focus, .topperMenu:hover .topperButtonList{
+    display: block;
+    visibility: visible;
+  }
+
+
+  .topperButton {
+    background-color: #ddd;
+    float: left;
+    height: auto;
+    min-height: 30px;
+    min-width: 130px;
+    left:-100px;
+    /*display: block;*/
+    font-weight: normal;
+    margin: 0px 0px 0px 0px;
+    padding: 3px 7px 3px 7px;
+    text-align: center;
+    vertical-align: center;
+    position: relative;
+    font-size: 14pt;
+    border-bottom: 2px solid #afdde9;
+}
+
+  .topperButton a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .dropDown ul{
+    display: none;
+
+  }
+
+  .topperButton:hover {
+      background-color: #ccc;
+  }
+
+  .topperButton:hover .dropDown ul {
+    display: none;
+  }
+
+  .fh-topbar {
+    position: relative;
+    left: -100px;
+    width: 130px;
+    margin: 0px;
+    padding: 6px !important;
+  }
+
+  .pageBanner {
+    max-width: 100%;
+  }
+
+  .pageBanner  img{
+    max-height:120px;
+    width: auto;
+    object-fit: none; /* Do not scale the image */
+    object-position: center; /* Center the image within the element */
+  }
+
+  .bannerText {
+    max-width: 50%;
+  }
+
+  .bannerText.long{
+    max-width: 60%;
+  }
+
+  .bannerText p {
+    margin: 5px;
+  }
+
+  .featureBox ul {
+    text-align: center;
+  }
+
+  .featureBox li{
+    width: 75%;
+    margin: 0 auto;
+    display: block;
+    border-bottom: 2px solid #afdde9;
+    padding-bottom: 10px;
+    border-right: none;
+    min-height: 0px;
+  }
+
+  .featureBox h1 {
+    min-height: 0px;
+    height: auto;
+  }
+
+  .rhLinks {
+    /*display: none;*/
+    width:90%;
+  }
+
+  .post img {
+    max-width: 40%
+  }
+
+  .post h2 {
+    font-size: 16pt;
+    margin: 5px;
+  }
+
+  .dayTourCalendar {
+    width: 100%;
+    padding-left: 10px;
+  }
+
+}
