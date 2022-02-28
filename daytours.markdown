@@ -12,7 +12,7 @@ Day Bike Tours
 Add a whole or half day out on the bike to your visit to New Hope and Lambertville:
 
 {:.featureBox}
-*   [Canals, Lanes and Shopping](/dayEasy)
+*   [Canals, Lanes and Shopping](/dayeasy)
     ==========================
     
     [![Canals lanes and shopping one day bicycle tour](/assets/images/canalFeature.jpg)](/dayEasy)
@@ -24,7 +24,7 @@ Add a whole or half day out on the bike to your visit to New Hope and Lambertvil
     Explore the canal and back lanes in the half day adventure which gives you time for a shopping stop at Peddlar's Village
 
 *   
-    [Historic River Towns Tour](/dayMedium)
+    [Historic River Towns Tour](/daymedium)
     =========================
     
     [![Corporate events](/assets/images/riverTownsFeature.jpg)](/dayMedium)
@@ -36,7 +36,7 @@ Add a whole or half day out on the bike to your visit to New Hope and Lambertvil
     Discover 5 historic river towns by a mixture of back lanes, dirt roads and canal towpath
 
 *   
-    [New Jersey countrside gems](/dayGems)
+    [New Jersey countrside gems](/daygems)
     ==========================
     
     [![Rolling New Jersey countryside gems](/assets/images/njGemsFeature.jpg)](/dayGems)
