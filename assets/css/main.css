@@ -532,6 +532,7 @@ blockquote {
 }
 blockquote:before {
   color: #ccc;
+  font-family: FontAwesome;
   content:  “\f05a”;
   font-size: 4em;
   line-height: 0.1em;
