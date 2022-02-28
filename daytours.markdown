@@ -5,6 +5,7 @@ permalink: /daytours/
 image: /assets/images/laneBridge.jpg
 ---
 
+> We're taking a break from running tours for now - please check back in the future or [email](mailto:tours@bearbicycletouring.com) us if you have any questions.
 
 Day Bike Tours
 ==============
