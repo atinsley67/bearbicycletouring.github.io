@@ -15,7 +15,7 @@ Add a whole or half day out on the bike to your visit to New Hope and Lambertvil
 *   [Canals, Lanes and Shopping](/dayeasy)
     ==========================
     
-    [![Canals lanes and shopping one day bicycle tour](/assets/images/canalFeature.jpg)](/dayEasy)
+    [![Canals lanes and shopping one day bicycle tour](/assets/images/canalFeature.jpg)](/dayeasy)
     
     Difficulty: **easy-medium**
     
@@ -27,7 +27,7 @@ Add a whole or half day out on the bike to your visit to New Hope and Lambertvil
     [Historic River Towns Tour](/daymedium)
     =========================
     
-    [![Corporate events](/assets/images/riverTownsFeature.jpg)](/dayMedium)
+    [![Corporate events](/assets/images/riverTownsFeature.jpg)](/daymedium)
     
     Difficulty: **medium**
     
@@ -39,7 +39,7 @@ Add a whole or half day out on the bike to your visit to New Hope and Lambertvil
     [New Jersey countrside gems](/daygems)
     ==========================
     
-    [![Rolling New Jersey countryside gems](/assets/images/njGemsFeature.jpg)](/dayGems)
+    [![Rolling New Jersey countryside gems](/assets/images/njGemsFeature.jpg)](/daygems)
     
     Difficulty: **medium-hard**
     
