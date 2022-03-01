@@ -11,12 +11,11 @@ imageTxt: Our blog
     <div class="section-inner">
         <div class="content">
             <div class="item">
-				<div class="list-image">
-					<a href="{{ post.url }}"><img  itemprop="image" src="/assets/images/blog/{{ post.id | remove_first:'/' | replace_first:'/','-' | replace_first:'/','-' | replace_first:'/','_' | replace:'/','-' }}_small.jpg" alt="{{ post.title }}"/></a>
-			    </div>
-				<div class="info text-left">
-
-                        <h2 class="title" itemprop="headline"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+                <div class="list-image">
+                    <a href="{{ post.url }}"><img  itemprop="image" src="/assets/images/blog/{{ post.id | remove_first:'/' | replace_first:'/','-' | replace_first:'/','-' | replace_first:'/','_' | replace:'/','-' }}_small.jpg" alt="{{ post.title }}"/></a>
+                </div>
+                <div class="info text-left">
+                    <h2 class="title" itemprop="headline"><a href="{{ post.url }}">{{ post.title }}</a></h2>
 
                     <p class="meta">
                         <span class="date" itemprop="datePublished">{{ post.date | date:'%m/%d/%Y'}}</span> - by
