@@ -2,10 +2,7 @@
 layout: post
 title:  We've been busy
 author: Bear Bicycle Touring
-date:   2016-05-15
-image: /assets/images/delawareBanner.jpg
-imageTxt: We've been busy
-blogImage: 2016-05-21_weve-been-busy
+date:   2016-05-21
 ---
 
 It's been a busy time here at Bear Bicycle Touring Co. If you've been following us on social media, you'll know we've been riding our bikes a lot and exploring some excellent places, but we've been working hard on some exciting developments too.
