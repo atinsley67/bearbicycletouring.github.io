@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="pageBanner">
-  <img width="1000" height="200" src="{{page.image}}" alt="{{page.imageTxt}}"/>
+  <img  src="/assets/images/blog/{{ page.id | remove_first:'/' | replace_first:'/','-' | replace_first:'/','-' | replace_first:'/','_' | replace:'/','-' }}_large.jpg" alt="{{page.imageTxt}}"/>
 </div>
 <div class="mainContent">
 
