@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  We've been busy
+title:  All about the bike
 author: Alex
 date:   2016-06-07
 ---
