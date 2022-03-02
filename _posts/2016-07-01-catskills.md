@@ -1,6 +1,9 @@
-We're off to the Catskills
-============
-[author=Tia]
+---
+layout: post
+title:  We're off to the Catskills
+author: Tia
+date:   2016-07-01
+---
 
 It is that time again; once again we are heading out on the road, just this time not for as long as our crazy Asia adventure. Since arriving in the states we have not yet done any cycle touring, except one quick weekend where we didn’t have to carry supplies and that is just not acceptable. We are hyped and excited to be spending 8 days riding out to the Catskills and back. We will be fully loaded and camping every night, something we have never done in the past. In Asia we had a tent and prepared but only 3 weeks in we lost the tent and relied on hotels, guesthouses, and homes. The whole journey will be around 500 miles and we will be taking the cyclocross bikes with road tires.
 
