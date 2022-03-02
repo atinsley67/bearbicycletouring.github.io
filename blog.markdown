@@ -1,9 +1,14 @@
 ---
-layout: page
+layout: default
 title: Blog
 image: /assets/images/blogBanner.jpg
 imageTxt: Our blog
 ---
+
+<div class="pageBanner">
+  <img width="1000" height="200" src="{{page.image}}" alt="{{page.imageTxt}}"/>
+</div>
+<div class="mainContent">
 <h1>Latest Posts</h1>
 
 {% for post in site.posts %}
@@ -35,3 +40,5 @@ imageTxt: Our blog
 </section><!--//section-->
 
 {% endfor %}
+    
+</div>
