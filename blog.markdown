@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blog
-image: /assets/images/blogBanner.jpg
+image: /assets/images/inWoods.jpg
 imageTxt: Our blog
 ---
 
