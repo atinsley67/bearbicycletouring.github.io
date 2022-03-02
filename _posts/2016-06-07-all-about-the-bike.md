@@ -1,6 +1,9 @@
-It's all about the bike
-============
-[author=Alex]
+---
+layout: post
+title:  We've been busy
+author: Alex
+date:   2016-06-07
+---
 
 It's fairly safe to say that we're roadies. What does that mean? Well, neither of has ridden a mountain bike in their adult lives, we meticulously plan our routes to avoid anything other than blacktop surfaces for fear of ruining our skinny road tires and we tend to consider the idea of a bike with anything other than a road style drop handlebar as a needlessly slow way to get from A to B.
 
@@ -10,7 +13,7 @@ Enter, the Cyclocross bike. Invented for the [bizarre cycling sport](https://www
 
 So, after a manic weekend of bike building, testing and breaking down cardboard boxes we have our very own fleet of rental bikes made by [Fuji](http://www.fujibikes.com/bike/details/cross-152 "Fuji Cross 1.5"). I'm happy to brag that nobody else in the area is renting anything which comes close to these in terms of having something which you can really *ride*. Boy did they turn out even better than we'd hoped. So much so in fact that rather than continuing to write about them, I'm going to go and ride one instead!
 
-![Our cyclocross rental bikes](../../../static/blog/images/bikes.jpg "Our cyclocross rental bikes")
+![Our cyclocross rental bikes](/assets/images/blog/bikes.jpg "Our cyclocross rental bikes")
 
 Catch you on the tarmac/gravel/towpath soon!
 
