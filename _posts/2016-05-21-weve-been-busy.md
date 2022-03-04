@@ -17,8 +17,8 @@ To add to the excitement we've got exclusive teeshirts arriving soon - you'll ne
 
 Everything we've been doing recently has been a interesting experience as we've met some pretty interesting people along the way. Without some of them, we wouldn't have got to where we are now:
 
-[Pure Energy Cycling](www.pureenergycycling.com) are a kick-ass bike shop in Lambertville, NJ. As well as being an excellent bike shop, they run a pro women's road racing team and do a load of work supporting the local cycling community. We're pleased to say they are helping us with a number of key things which will go into making this a reality.
+[Pure Energy Cycling](http://pureenergycycling.com) are a kick-ass bike shop in Lambertville, NJ. As well as being an excellent bike shop, they run a pro women's road racing team and do a load of work supporting the local cycling community. We're pleased to say they are helping us with a number of key things which will go into making this a reality.
 
-We already mentioned [Vie13](www.vie13.com) who are producing bibs and jerseys for us. Another showcase of the excellent small business, Vie13 are run by a husband/wife team of world class cycling and speed skating athletes. Their line of cycling gear reflects their background and we couldn't be more excited to be riding in it soon.
+We already mentioned [Vie13](https://vie13.com) who are producing bibs and jerseys for us. Another showcase of the excellent small business, Vie13 are run by a husband/wife team of world class cycling and speed skating athletes. Their line of cycling gear reflects their background and we couldn't be more excited to be riding in it soon.
 
 
