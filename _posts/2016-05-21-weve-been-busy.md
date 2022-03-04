@@ -19,6 +19,6 @@ Everything we've been doing recently has been a interesting experience as we've 
 
 [Pure Energy Cycling](www.pureenergycycling.com) are a kick-ass bike shop in Lambertville, NJ. As well as being an excellent bike shop, they run a pro women's road racing team and do a load of work supporting the local cycling community. We're pleased to say they are helping us with a number of key things which will go into making this a reality.
 
-We already mentioned [Vie13](www.vie13.com) who are producing bibs and jerseys for us. Another showcase of the excellent local businesses in the area, Vie13 are run by a husband/wife team of world class cycling and speed skating athletes. Their line of cycling gear reflects their background and we couldn't be more excited to be riding in it soon.
+We already mentioned [Vie13](www.vie13.com) who are producing bibs and jerseys for us. Another showcase of the excellent small business, Vie13 are run by a husband/wife team of world class cycling and speed skating athletes. Their line of cycling gear reflects their background and we couldn't be more excited to be riding in it soon.
 
-Finally, [NJ Bike tours](www.njbiketours.com) is another great local business we've had the pleasure of working with. The founder, Jake was brought up on a bike in Belgium and shares our passion for cycling community and lifestyle. His tours offer a unique farm to table experience of the NJ countryside based out of Princeton and make the perfect day out if you want a more casual day on the bike to experience great locally produced food at NJ farms, vineyard tours, and more.
+
