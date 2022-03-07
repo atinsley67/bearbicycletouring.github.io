@@ -4,6 +4,7 @@ title: Biking with Kids and Life Update
 author: Tia
 date:   2022-03-07
 ---
+
 Alex and I have been taking a small break from operating the bike tours. Life often gets in the way and for us the arrival of a couple little people have created a temporary hold on our business. Our third child is due to arrive shortly and we plan on keeping you updated on everything bikes with our blog as well as some awesome things to do in the local area. We are planning on restarting day tours for the 2023 season.
 
 We appreciate your support as you patiently wait for the tours to restart and are happy to answer any questions you have. We love the Bucks County/Delaware Valley/River Towns area and hear to answer local questions or help plan out some awesome things to do in the area. Check back for some of our favorite cycle routes that you can do on your own and our favorite cafes to stop at.
