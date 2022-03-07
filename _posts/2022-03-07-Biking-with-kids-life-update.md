@@ -9,7 +9,7 @@ Alex and I have been taking a small break from operating the bike tours. Life of
 
 We appreciate your support as you patiently wait for the tours to restart and are happy to answer any questions you have. We love the Bucks County/Delaware Valley/River Towns area and hear to answer local questions or help plan out some awesome things to do in the area. Check back for some of our favorite cycle routes that you can do on your own and our favorite cafes to stop at.
 
-For more information on other things to do in Bucks County you can check out  [Visit Bucks County] (https://www.visitbuckscounty.com "Visit Bucks County Site" ) 
+For more information on other things to do in Bucks County you can check out  [Visit Bucks County](https://www.visitbuckscounty.com "Visit Bucks County Site" ) 
 
 Cycling with Toddlers
 
@@ -26,13 +26,13 @@ Introduction to Toddler Bikes
 
 Not only did we want to get our kids on the back of our bikes but we also wanted our kids to learn how to ride their own bikes. Toddlers can start learning to ride a bike early, basically from the time they learn to walk. They will not be riding for miles, but a great outdoor toy for your child to grow their interest in bikes and cycling.
 
-To read more about what the best bikes to first introduce your toddlers to are click [here] (https://allaboutmomma.com/best-toddler-bikes-for-a-1-2-and-3-year-old/ "Toddler Bikes").
+To read more about what the best bikes to first introduce your toddlers to are click [here](https://allaboutmomma.com/best-toddler-bikes-for-a-1-2-and-3-year-old/ "Toddler Bikes").
 
 Life Update
 
 For 2022 Alex and I will be focused on bringing our third child into this world. We hope to get out for as many road rides as we can in our local area and search out any new potential routes for a great day tour. We promise to taste all the delicious pastries and coffee to ensure when we take you on a tour we have found the best options for you.
 
-I will continue to explore what biking with little people is all about and let you know what we find. I have created a different blog [All About Momma] (https://www.allaboutmomma.com "AllAboutMomma link") that is focused on outdoor adventure with kids from hiking, cycling or just getting your kids to play in the rain. 
+I will continue to explore what biking with little people is all about and let you know what we find. I have created a different blog [All About Momma](https://www.allaboutmomma.com "AllAboutMomma link") that is focused on outdoor adventure with kids from hiking, cycling or just getting your kids to play in the rain. 
 
 Please reach out for any questions you have or bike advice. And see you again in 2023!
 
