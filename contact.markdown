@@ -8,6 +8,6 @@ image: /assets/images/contactBanner.jpg
 Contact Us
 ================
 
-You can email us at [tours@bearbicyclebouring.com](mailto:tours@bearbicyclebouring)
+You can email us at [tours@bearbicycletouring.com](mailto:tours@bearbicyclebouring)
 
 We're on [Facebook}(http://www.facebook.com/bearbicycletouringco)
